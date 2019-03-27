@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API_URL: 'https://ckp-python-234314.appspot.com/api'
+  API_URL: 'https://secure-hamlet-12892.herokuapp.com/api'
 };
